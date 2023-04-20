@@ -1,1 +1,2 @@
-"#portfolio-website"
+# mon premier-site-web
+Ce site web est ma première réalisation dans l'univers du developpement  web en tant. Ce dernier met en valeur mes competences actuelles et futures, va permettre de me contacter et d'acceder à mes informations personelle.
